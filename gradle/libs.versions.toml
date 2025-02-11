@@ -8,7 +8,7 @@ junit = "4.13.2"
 junitVersion = "1.2.1"
 lifecycleRuntimeKtx = "2.8.7"
 activityCompose = "1.9.3"
-compose = "1.8.0-alpha06"
+compose = "1.8.0-beta01"
 
 [libraries]
 androidx-benchmark-junit4 = { module = "androidx.benchmark:benchmark-junit4", version.ref = "benchmarkJunit4" }
